@@ -3,12 +3,11 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      fontFamily:{
-        'sans': ['poppins'],
-        'serif': ['poppins'],
-        'mono': ['poppins'],
-        'display': ['poppins'],
-        'body': ['poppins'],
+      colors:{
+
+      },
+      
+      fontSize:{
       },
     },
   },
